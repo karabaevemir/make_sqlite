@@ -140,4 +140,4 @@ if connection is not None:
     select_products_by_price_quantity(connection)
     delete_products(connection, 4)
     find_by_product_title(connection)
-    update_products_quantity(connection, 7, 15)
+    update_products_quantity(connection, 10, 15)
